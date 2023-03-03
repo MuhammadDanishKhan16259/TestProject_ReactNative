@@ -23,11 +23,6 @@ function StackNavigation() {
       />
       {/* <Stack.Screen name="Otp" component={Otp} options={{headerShown: false}} /> */}
       {/* <Stack.Screen name="Otp" component={Otp} options={{headerShown: false}} /> */}
-      {/* <Stack.Screen
-        name="TabNavigation"
-        component={TabNavigation}
-        options={{headerShown: false}}
-      /> */}
     </Stack.Navigator>
   );
 }
